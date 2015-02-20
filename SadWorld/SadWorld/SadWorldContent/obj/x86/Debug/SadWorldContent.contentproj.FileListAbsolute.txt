@@ -1,0 +1,5 @@
+C:\Users\home\XNA work\SadWorld\SadWorld\SadWorldContent\obj\x86\Debug\ResolveAssemblyReference.cache
+X:\XNA\SadWorld\SadWorld\SadWorldContent\obj\x86\Debug\SadWorldContent.contentprojResolveAssemblyReference.cache
+X:\XNA\SadWorldTesting\SadWorld\SadWorldContent\obj\x86\Debug\SadWorldContent.contentprojResolveAssemblyReference.cache
+C:\Users\Matthew\Documents\GitHub\SadWorld\SadWorld\SadWorldContent\obj\x86\Debug\SadWorldContent.contentprojResolveAssemblyReference.cache
+X:\XNA\SadWorld\SadWorld\SadWorld\SadWorldContent\obj\x86\Debug\SadWorldContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+  <Enemies>
+    <Item>
+      <position>24 22</position>
+      <level>2 4</level>
+      <enemyType>3</enemyType>
+      <numDialogue>5</numDialogue>
+      <dialogue1>The world is being&#10;consumed by a dark disease.&#10;My health is fading.</dialogue1>
+      <dialogue2>There are portals scattered&#10;about the world, they&#10;lead to unknown places</dialogue2>
+      <dialogue3>It is dangerous to go alone.&#10;Take this.</dialogue3>
+      <dialogue4>My aura has helped me&#10;overcome my fears</dialogue4>
+      <dialogue5>You can use it to help you&#10;overcome yours.&#10;Go through this portal,&#10;finish what I never could.</dialogue5>
+    </Item>
+    <Item>
+      <position>27 13</position>
+      <level>3 1</level>
+      <enemyType>0</enemyType>
+      <numDialogue>0</numDialogue>
+    </Item>
+    <Item>
+      <position>16 10</position>
+      <level>3 2</level>
+      <enemyType>0</enemyType>
+      <numDialogue>0</numDialogue>
+    </Item>
+    <Item>
+      <position>16 13</position>
+      <level>3 3</level>
+      <enemyType>0</enemyType>
+      <numDialogue>0</numDialogue>
+    </Item>
+  </Enemies>
+  
