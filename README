@@ -6,3 +6,8 @@ This game is no longer in development under the XNA framework. I had an amazing 
 Coding this game allowed me to learn much faster and immediately apply new coding techniques as I learned them. 
 
 For future reference, one person shouldn't code a game engine. Enjoy looking at my code :)
+
+(exe located in SadWorld\SadWorld\bin\x86\debug)
+
+-> Enter to get past main menu
+-> esc + enter to exit game.
